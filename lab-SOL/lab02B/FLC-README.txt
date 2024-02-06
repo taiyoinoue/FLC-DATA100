@@ -1,0 +1,1 @@
+This lab, which covers some slightly more advanced pandas features like .groupby(), contains content which is not really used in the remaining labs.  So, it is safe to skip this lab.
